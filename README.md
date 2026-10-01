@@ -12,8 +12,8 @@ RTOS, 통신 스택, 보안, 클라우드 연동 라이브러리를 CubeMX 안�
 
 | 업체 | 내용 | 쓰는 경우 |
 |---|---|---|
-| **ITTIA_DB** | 임베디드용 SQL/시계열 DB (ITTIA DB Lite 등) | 센서 데이터를 MCU 내부에 구조적으로 저장·조회하고 싶을 때 |
-| **Infineon** | OPTIGA Trust M 같은 보안 칩, AIROC Wi-Fi/BT 등 Infineon 디바이스용 드라이버·미들웨어 | STM32에 Infineon 보안 칩이나 무선 모듈을 붙일 때 |
+| **ITTIA_DB** | 임베디드용 SQL/시계열 DB (ITTIA DB Lite 등) | 센서 데이터를 MCU 내부에 <br>구조적으로 저장·조회하고 싶을 때 |
+| **Infineon** | OPTIGA Trust M 같은 보안 칩, <br>AIROC Wi-Fi/BT 등 Infineon 디바이스용 드라이버·미들웨어 | STM32에 Infineon 보안 칩이나 무선 모듈을 붙일 때 |
 | **RealThread** | RT-Thread RTOS (Nano 등) | 중국권에서 많이 쓰는 RTOS를 쓰고 싶을 때. FreeRTOS 대안 |
 | **SEGGER** | embOS(RTOS), emWin(GUI), emFile, emUSB, RTT, SystemView 등 | 상용급 RTOS/GUI가 필요하거나, J-Link 기반 RTT 로그와 SystemView 분석을 쓰고 싶을 때 |
 | **WES** | Weston Embedded Solutions의 µC/OS-II·III 및 µC/TCP-IP, µC/FS, µC/USB 등 (옛 Micrium) | µC/OS 기반 레거시 자산이 있거나 안전 인증용 RTOS가 필요할 때 |
