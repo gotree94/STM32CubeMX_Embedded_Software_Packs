@@ -1,4 +1,4 @@
-# STM32CubeMX <br> – Embedded Software Package Manager 서드파티 팩 정리
+# STM32CubeMX <br> – Embedded Software Package Manager <br>서드파티 팩 정리
 
 STM32CubeMX의 Embedded Software Package Manager에 나오는 이 항목들은 ST가 아닌 **서드파티(파트너) 업체가 제공하는 소프트웨어 팩(CMSIS-Pack 형식)** 입니다. RTOS, 통신 스택, 보안, 클라우드 연동 라이브러리를 CubeMX 안에서 바로 설치하고 프로젝트에 넣을 수 있게 해줍니다.
 
