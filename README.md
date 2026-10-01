@@ -16,7 +16,7 @@ RTOS, 통신 스택, 보안, 클라우드 연동 라이브러리를 CubeMX 안�
 | **Infineon** | OPTIGA Trust M 같은 보안 칩, AIROC Wi-Fi/BT 등<br>Infineon 디바이스용 드라이버·미들웨어 | STM32에 Infineon 보안 칩이나 무선 모듈을 붙일 때 |
 | **RealThread** | RT-Thread RTOS (Nano 등) | 중국권에서 많이 쓰는 RTOS를 쓰고 싶을 때. FreeRTOS 대안 |
 | **SEGGER** | embOS(RTOS), emWin(GUI), <br>emFile, emUSB, RTT, SystemView 등 | 상용급 RTOS/GUI가 필요하거나, <br>J-Link 기반 RTT 로그와 SystemView 분석을 쓰고 싶을 때 |
-| **WES** | Weston Embedded Solutions의 <br>µC/OS-II·III 및 µC/TCP-IP, µC/FS, µC/USB 등 (옛 Micrium) | µC/OS 기반 레거시 자산이 있거나 <br>안전 인증용 RTOS가 필요할 때 |
+| **WES** | Weston Embedded Solutions의 <br>µC/OS-II·III 및 µC/TCP-IP, µC/FS, µC/USB 등 <br>(옛 Micrium) | µC/OS 기반 레거시 자산이 있거나 <br>안전 인증용 RTOS가 필요할 때 |
 | **emotas** | CANopen, CANopen FD, <br>J1939 등 CAN 상위 프로토콜 스택 | 산업용 CAN 기기(드라이브, I/O 노드)를 만들 때 |
 | **quantropi** | 양자내성암호(PQC) 및 양자 보안 라이브러리 | 장기 보안이 필요한 장비에 PQC 대응을 미리 넣고 싶을 때 |
 | **wolfSSL** | TLS/DTLS, 암호 라이브러리(wolfCrypt), <br>wolfMQTT, wolfSSH, wolfBoot 등 | MQTT/HTTPS 암호화 통신, 보안 부트, <br>서명 검증이 필요할 때. <br>STM32 하드웨어 암호 가속 지원 |
