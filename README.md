@@ -19,7 +19,7 @@ RTOS, 통신 스택, 보안, 클라우드 연동 라이브러리를 CubeMX 안�
 | **WES** | Weston Embedded Solutions의 <br>µC/OS-II·III 및 µC/TCP-IP, µC/FS, µC/USB 등 (옛 Micrium) | µC/OS 기반 레거시 자산이 있거나 <br>안전 인증용 RTOS가 필요할 때 |
 | **emotas** | CANopen, CANopen FD, <br>J1939 등 CAN 상위 프로토콜 스택 | 산업용 CAN 기기(드라이브, I/O 노드)를 만들 때 |
 | **quantropi** | 양자내성암호(PQC) 및 <br>양자 보안 라이브러리 | 장기 보안이 필요한 장비에 PQC 대응을 미리 넣고 싶을 때 |
-| **wolfSSL** | TLS/DTLS, 암호 라이브러리(wolfCrypt), <br>wolfMQTT, wolfSSH, wolfBoot 등 | MQTT/HTTPS 암호화 통신, 보안 부트, 서명 검증이 필요할 때. <br>STM32 하드웨어 암호 가속 지원 |
+| **wolfSSL** | TLS/DTLS, 암호 라이브러리(wolfCrypt), <br>wolfMQTT, wolfSSH, wolfBoot 등 | MQTT/HTTPS 암호화 통신, 보안 부트, <br>서명 검증이 필요할 때. <br>STM32 하드웨어 암호 가속 지원 |
 | **Avnet-IOTCONNECT** | Avnet IOTCONNECT 클라우드(AWS/Azure 기반)에 <br>디바이스를 붙이는 클라이언트 | 디바이스 등록, 텔레메트리, 원격 명령, <br>OTA를 클라우드 플랫폼으로 빠르게 구성할 때 |
 | **Cesanta** | Mongoose 임베디드 웹서버/네트워크 라이브러리 <br>(HTTP, WebSocket, MQTT, TCP/IP) | 장비에 웹 UI나 REST API를 올릴 때. <br>자체 TCP/IP 스택과 STM32 이더넷 드라이버 포함 |
 | **Embedded Office** | CANopen 스택 등 산업 통신 미들웨어 <br>(µC/CANopen 계열) | CANopen 기기를 만들 때. emotas와 용도가 겹침 |
