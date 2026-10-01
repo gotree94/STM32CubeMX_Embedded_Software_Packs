@@ -1,0 +1,2 @@
+# STM32CubeMX_Embedded_Software_Packs
+STM32CubeMX_Embedded_Software_Packs
